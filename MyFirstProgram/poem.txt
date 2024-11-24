@@ -1,0 +1,4 @@
+i just create a new file
+testing the file
+the file is working
+close the file after reading
